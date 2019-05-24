@@ -1,6 +1,4 @@
-﻿
-
-using Newtonsoft.Json.Linq;
+﻿using Newtonsoft.Json.Linq;
 
 namespace NHLStats.Api.Models
 {
